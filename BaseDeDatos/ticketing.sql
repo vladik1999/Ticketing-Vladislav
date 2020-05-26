@@ -50,7 +50,7 @@ id INT not null AUTO_INCREMENT,
 
 nombre_corto VARCHAR(200),
 
-descripcion VARCHAR(20),
+descripcion VARCHAR(100),
 
 PRIMARY KEY (id)
 
