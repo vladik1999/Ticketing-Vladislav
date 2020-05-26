@@ -51,7 +51,7 @@ if($varsesion!='Admin'){
     <form method="POST" action="admin.php" >
 
       <div class="form-group">
-        <label class="lab" for="id">ID(NULL O NUMERO EN CASO DE CREAR)</label>
+        <label class="lab" for="id">ID (A partir de ID "6")</label>
         <input type="text" name="id" class="form-control" id="id">
       </div>
 

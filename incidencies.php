@@ -48,7 +48,7 @@
       </div>
 
     <div class="form-group">
-      <label class="lab" for="dat">FECHA</label>
+      <label class="lab" for="dat">FECHA (Formato: "AAAA-MM-DD" Ej: 2020-06-26)</label>
       <input type="text" name="dat" class="form-control" id="dat">
     </div>
 
