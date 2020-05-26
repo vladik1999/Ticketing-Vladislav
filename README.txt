@@ -4,6 +4,8 @@ la contraseña del usuario root al de la maquina MySQL.
 - Hay una base de datos que se debe importar a mysql, solamente hacer un source, 
 ya esta preparado para crearla y aplicar los datos.
 
+-MUY IMPORTANTE: Fijarse en los formatos de las fechas correctamente y etc para poder crear usuarios o incidencias.
+
 - USUARIOS:
 
 vlad:vlad -Admin
